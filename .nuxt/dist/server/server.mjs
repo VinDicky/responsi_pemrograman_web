@@ -1,1 +1,1 @@
-export { default } from "file:///D:/XAMPP/htdocs/Responsi/responsi_pemrograman_web/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
+export { default } from "file:///D:/22.11.4696/responsi/responsi_pemrograman_web/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
