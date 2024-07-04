@@ -23,7 +23,7 @@
     <footer id="footer-down">
       <h2>FOLLOW US ON</h2>
       <ul class="social-icon">
-        <li class="instagram hvr-pulse"><a href="https://www.instagram.com/kevindicky10/"><i class="fa fa-instagram"><img src="" class="logo" alt=""></i></a></li>
+        <li class="instagram hvr-pulse"><a href="https://www.instagram.com/kevindicky10/"><i class="fa fa-instagram"><img src="assets/img/ig.png" class="logo" alt=""></i></a></li>
         <li class="email hvr-pulse"><a href="kevindck1610@gmail.com"><i class="fa fa-email"><img src="" class="logo" alt=""></i></a></li>
       </ul>
     </footer>

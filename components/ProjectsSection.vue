@@ -15,7 +15,7 @@
           <div class="team-img"> <img src="" class="img-responsive" alt="" height="225px" width="225px">
             <div class="team-desc">
               <h5>Majalah</h5>
-              <p>Merupakan tugas final project mata kuliah komputer grafis</p>
+              <p>Majalah yang dibuat dengan desain yang menarik</p>
               <ul class="team-social-icon">
                 <li><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-f"></i></a></li>
                 <li><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
@@ -29,10 +29,10 @@
       </div>
       <div class="col-md-3 col-sm-6 col-xs-12 team-main-sec wow slideInUp" data-wow-duration="1s" data-wow-delay=".2s">
         <div class="team-sec">
-          <div class="team-img"> <img src="" class="img-responsive" alt="" height="225px" width="225px">
+          <div class="team-img"> <img src="assets/img/logo-black.png" class="img-responsive" alt="" height="225px" width="225px">
             <div class="team-desc">
               <h5>SEWA.IN</h5>
-              <p>Merupakan tugas final project mata kuliah  </p>
+              <p>sewa.in adalah project website yang bertema sewa mobil</p>
               <ul class="team-social-icon">
                 <li><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-f"></i></a></li>
                 <li><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
@@ -49,7 +49,7 @@
           <div class="team-img"> <img src="" class="img-responsive" alt="" height="225px" width="225px">
             <div class="team-desc">
               <h5>SegoGampil Patitik </h5>
-              <p>Desain yang dibuat untuk tugas akhir pemrograman web</p>
+              <p>SegoGampil Patitik merupakan project aplikasi makanan</p>
               <ul class="team-social-icon">
                 <li><a href="#" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook-f"></i></a></li>
                 <li><a href="#" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a></li>
